@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="SCH_putWeaponAway">
+	<Container name="About">
+		<Key ID="STR_SCH_putWeaponAway_about_name">
+			<Original>Put Weapon Away</Original>
+			<English>Put Weapon Away</English>
+			<Russian>Убрать оружие</Russian>
+		</Key>
+		<Key ID="STR_SCH_putWeaponAway_about_overview">
+			<Original>A solution for putting the weapon behind the back or into the equipment (for example, into the holster).</Original>
+			<English>A solution for putting the weapon behind the back or into the equipment (for example, into the holster).</English>
+			<Russian>Решение для убирания оружия за спину или в снаряжение (например, в кобуру).</Russian>
+		</Key>
+	</Container>
+	<Container name="Action">
+		<Key ID="STR_SCH_putWeaponAway_action_name">
+			<Original>Put weapon away</Original>
+			<English>Put weapon away</English>
+			<Russian>Убрать оружие</Russian>
+		</Key>
+		<Key ID="STR_SCH_putWeaponAway_action_tooltip">
+			<Original>Put the weapon behind the back or into the equipment (for example, into the holster).</Original>
+			<English>Put the weapon behind the back or into the equipment (for example, into the holster).</English>
+			<Russian>Убрать оружие за спину или в снаряжение (например, в кобуру).</Russian>
+		</Key>
+	</Container>
+	<Container name="Hints">
+		<Key ID="STR_SCH_putWeaponAway_hint_title">
+			<Original>Putting weapon away</Original>
+			<English>Putting weapon away</English>
+			<Russian>Убирание оружия</Russian>
+		</Key>
+		<Key ID="STR_SCH_putWeaponAway_hint_description">
+			<Original>Use the keys %11 to put the weapon behind the back or into the equipment (for example, into the holster).</Original>
+			<English>Use the keys %11 to put the weapon behind the back or into the equipment (for example, into the holster).</English>
+			<Russian>Используй клавиши %11, чтобы убрать оружие за спину или в снаряжение (например, в кобуру).</Russian>
+		</Key>
+	</Container>
+</Project>
