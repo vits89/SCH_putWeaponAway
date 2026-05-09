@@ -6,7 +6,11 @@ class CfgPatches
 		author = "Schatten";
 		url = "https://github.com/vits89";
 		requiredVersion = 2.06;
-		requiredAddons[] = { "A3_Language_F" };
+		requiredAddons[] =
+		{
+			"A3_Anims_F_Config_Sdr",
+			"A3_Language_F"
+		};
 		units[] = { };
 		weapons[] = { };
 	};
@@ -23,3 +27,4 @@ class CfgHints
 };
 
 #include "action.cpp"
+#include "moves.cpp"
