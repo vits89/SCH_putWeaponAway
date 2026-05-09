@@ -1,3 +1,8 @@
+v1.0.1
+
+Fixed: footsteps sound (only in mod).
+
+
 v1.0.0
 
 The first release.
